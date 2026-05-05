@@ -1,0 +1,15 @@
+{
+  "name": "adopt-provisioning-examples",
+  "private": true,
+  "description": "Runnable examples for @adopt-tech/provisioning",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@adopt-tech/provisioning": "^1.1.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
